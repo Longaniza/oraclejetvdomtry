@@ -29,6 +29,9 @@
       ],
       "preact": [
         "./node_modules/preact"
+      ],
+      "hello-world/*": [
+        "./src/components/hello-world/*"
       ]
     },
     "declaration": true,
