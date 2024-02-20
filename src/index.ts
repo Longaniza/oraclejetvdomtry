@@ -8,3 +8,4 @@
 // injector:preactDebugImport
 // endinjector
 import './components/app';
+import "hello-world/loader";
